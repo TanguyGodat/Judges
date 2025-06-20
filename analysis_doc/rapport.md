@@ -1,5 +1,7 @@
 # naissance
 
+# continent
+
 # bivariée
 
 # réseaux
