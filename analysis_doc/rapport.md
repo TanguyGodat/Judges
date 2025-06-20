@@ -2,4 +2,4 @@
 
 # bivariée
 
-# résaux
+# réseaux
