@@ -1,1 +1,5 @@
+# naissance
 
+# bivariée
+
+# résaux
