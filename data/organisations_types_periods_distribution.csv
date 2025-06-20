@@ -1,0 +1,313 @@
+,periods,relaType,orgMainType,period_members_number
+0,1800-1824,education,academy of sciences,0
+1,1800-1824,education,astronomical observatory,0
+2,1800-1824,education,company or gov. agency,0
+3,1800-1824,education,educational institution,409
+4,1800-1824,education,institute of technology,1
+5,1800-1824,education,learned society,0
+6,1800-1824,education,not classified organisation,18
+7,1800-1824,education,private university,180
+8,1800-1824,education,public university,174
+9,1800-1824,education,research facility,0
+10,1800-1824,education,research organisation,0
+11,1800-1824,education,scientific organisation,1
+12,1800-1824,education,university,408
+39,1825-1849,education,academy of sciences,0
+40,1825-1849,education,astronomical observatory,1
+41,1825-1849,education,company or gov. agency,0
+42,1825-1849,education,educational institution,550
+43,1825-1849,education,institute of technology,1
+44,1825-1849,education,learned society,0
+45,1825-1849,education,not classified organisation,9
+46,1825-1849,education,private university,145
+47,1825-1849,education,public university,211
+48,1825-1849,education,research facility,0
+49,1825-1849,education,research organisation,0
+50,1825-1849,education,scientific organisation,1
+51,1825-1849,education,university,579
+78,1850-1874,education,academy of sciences,0
+79,1850-1874,education,astronomical observatory,2
+80,1850-1874,education,company or gov. agency,0
+81,1850-1874,education,educational institution,831
+82,1850-1874,education,institute of technology,2
+83,1850-1874,education,learned society,0
+84,1850-1874,education,not classified organisation,8
+85,1850-1874,education,private university,229
+86,1850-1874,education,public university,317
+87,1850-1874,education,research facility,1
+88,1850-1874,education,research organisation,0
+89,1850-1874,education,scientific organisation,4
+90,1850-1874,education,university,944
+117,1875-1899,education,academy of sciences,0
+118,1875-1899,education,astronomical observatory,1
+119,1875-1899,education,company or gov. agency,0
+120,1875-1899,education,educational institution,1118
+121,1875-1899,education,institute of technology,1
+122,1875-1899,education,learned society,2
+123,1875-1899,education,not classified organisation,16
+124,1875-1899,education,private university,300
+125,1875-1899,education,public university,425
+126,1875-1899,education,research facility,2
+127,1875-1899,education,research organisation,0
+128,1875-1899,education,scientific organisation,6
+129,1875-1899,education,university,1115
+156,1900-1924,education,academy of sciences,0
+157,1900-1924,education,astronomical observatory,2
+158,1900-1924,education,company or gov. agency,0
+159,1900-1924,education,educational institution,1969
+160,1900-1924,education,institute of technology,4
+161,1900-1924,education,learned society,2
+162,1900-1924,education,not classified organisation,21
+163,1900-1924,education,private university,403
+164,1900-1924,education,public university,635
+165,1900-1924,education,research facility,2
+166,1900-1924,education,research organisation,1
+167,1900-1924,education,scientific organisation,4
+168,1900-1924,education,university,1693
+195,1925-1949,education,academy of sciences,0
+196,1925-1949,education,astronomical observatory,5
+197,1925-1949,education,company or gov. agency,0
+198,1925-1949,education,educational institution,3043
+199,1925-1949,education,institute of technology,4
+200,1925-1949,education,learned society,0
+201,1925-1949,education,not classified organisation,53
+202,1925-1949,education,private university,662
+203,1925-1949,education,public university,1298
+204,1925-1949,education,research facility,1
+205,1925-1949,education,research organisation,2
+206,1925-1949,education,scientific organisation,6
+207,1925-1949,education,university,3127
+234,1950-1974,education,academy of sciences,0
+235,1950-1974,education,astronomical observatory,2
+236,1950-1974,education,company or gov. agency,2
+237,1950-1974,education,educational institution,2527
+238,1950-1974,education,institute of technology,7
+239,1950-1974,education,learned society,5
+240,1950-1974,education,not classified organisation,30
+241,1950-1974,education,private university,509
+242,1950-1974,education,public university,1324
+243,1950-1974,education,research facility,0
+244,1950-1974,education,research organisation,6
+245,1950-1974,education,scientific organisation,7
+246,1950-1974,education,university,2665
+273,1975-1999,education,academy of sciences,0
+274,1975-1999,education,astronomical observatory,0
+275,1975-1999,education,company or gov. agency,0
+276,1975-1999,education,educational institution,121
+277,1975-1999,education,institute of technology,1
+278,1975-1999,education,learned society,0
+279,1975-1999,education,not classified organisation,6
+280,1975-1999,education,private university,29
+281,1975-1999,education,public university,72
+282,1975-1999,education,research facility,1
+283,1975-1999,education,research organisation,1
+284,1975-1999,education,scientific organisation,0
+285,1975-1999,education,university,152
+13,1800-1824,employment,academy of sciences,0
+14,1800-1824,employment,astronomical observatory,0
+15,1800-1824,employment,company or gov. agency,13
+16,1800-1824,employment,educational institution,14
+17,1800-1824,employment,institute of technology,3
+18,1800-1824,employment,learned society,1
+19,1800-1824,employment,not classified organisation,26
+20,1800-1824,employment,private university,14
+21,1800-1824,employment,public university,36
+22,1800-1824,employment,research facility,0
+23,1800-1824,employment,research organisation,0
+24,1800-1824,employment,scientific organisation,0
+25,1800-1824,employment,university,43
+52,1825-1849,employment,academy of sciences,0
+53,1825-1849,employment,astronomical observatory,0
+54,1825-1849,employment,company or gov. agency,24
+55,1825-1849,employment,educational institution,22
+56,1825-1849,employment,institute of technology,2
+57,1825-1849,employment,learned society,1
+58,1825-1849,employment,not classified organisation,74
+59,1825-1849,employment,private university,9
+60,1825-1849,employment,public university,48
+61,1825-1849,employment,research facility,0
+62,1825-1849,employment,research organisation,0
+63,1825-1849,employment,scientific organisation,0
+64,1825-1849,employment,university,72
+91,1850-1874,employment,academy of sciences,0
+92,1850-1874,employment,astronomical observatory,0
+93,1850-1874,employment,company or gov. agency,20
+94,1850-1874,employment,educational institution,31
+95,1850-1874,employment,institute of technology,5
+96,1850-1874,employment,learned society,0
+97,1850-1874,employment,not classified organisation,47
+98,1850-1874,employment,private university,28
+99,1850-1874,employment,public university,84
+100,1850-1874,employment,research facility,0
+101,1850-1874,employment,research organisation,1
+102,1850-1874,employment,scientific organisation,2
+103,1850-1874,employment,university,94
+130,1875-1899,employment,academy of sciences,0
+131,1875-1899,employment,astronomical observatory,0
+132,1875-1899,employment,company or gov. agency,40
+133,1875-1899,employment,educational institution,30
+134,1875-1899,employment,institute of technology,1
+135,1875-1899,employment,learned society,1
+136,1875-1899,employment,not classified organisation,161
+137,1875-1899,employment,private university,24
+138,1875-1899,employment,public university,181
+139,1875-1899,employment,research facility,0
+140,1875-1899,employment,research organisation,2
+141,1875-1899,employment,scientific organisation,1
+142,1875-1899,employment,university,157
+169,1900-1924,employment,academy of sciences,0
+170,1900-1924,employment,astronomical observatory,0
+171,1900-1924,employment,company or gov. agency,56
+172,1900-1924,employment,educational institution,42
+173,1900-1924,employment,institute of technology,4
+174,1900-1924,employment,learned society,0
+175,1900-1924,employment,not classified organisation,328
+176,1900-1924,employment,private university,53
+177,1900-1924,employment,public university,233
+178,1900-1924,employment,research facility,0
+179,1900-1924,employment,research organisation,2
+180,1900-1924,employment,scientific organisation,4
+181,1900-1924,employment,university,212
+208,1925-1949,employment,academy of sciences,0
+209,1925-1949,employment,astronomical observatory,0
+210,1925-1949,employment,company or gov. agency,84
+211,1925-1949,employment,educational institution,99
+212,1925-1949,employment,institute of technology,3
+213,1925-1949,employment,learned society,3
+214,1925-1949,employment,not classified organisation,468
+215,1925-1949,employment,private university,161
+216,1925-1949,employment,public university,484
+217,1925-1949,employment,research facility,0
+218,1925-1949,employment,research organisation,19
+219,1925-1949,employment,scientific organisation,4
+220,1925-1949,employment,university,523
+247,1950-1974,employment,academy of sciences,0
+248,1950-1974,employment,astronomical observatory,0
+249,1950-1974,employment,company or gov. agency,76
+250,1950-1974,employment,educational institution,96
+251,1950-1974,employment,institute of technology,7
+252,1950-1974,employment,learned society,2
+253,1950-1974,employment,not classified organisation,637
+254,1950-1974,employment,private university,104
+255,1950-1974,employment,public university,401
+256,1950-1974,employment,research facility,1
+257,1950-1974,employment,research organisation,6
+258,1950-1974,employment,scientific organisation,7
+259,1950-1974,employment,university,387
+286,1975-1999,employment,academy of sciences,0
+287,1975-1999,employment,astronomical observatory,0
+288,1975-1999,employment,company or gov. agency,12
+289,1975-1999,employment,educational institution,3
+290,1975-1999,employment,institute of technology,0
+291,1975-1999,employment,learned society,1
+292,1975-1999,employment,not classified organisation,62
+293,1975-1999,employment,private university,6
+294,1975-1999,employment,public university,19
+295,1975-1999,employment,research facility,0
+296,1975-1999,employment,research organisation,2
+297,1975-1999,employment,scientific organisation,4
+298,1975-1999,employment,university,20
+26,1800-1824,membership,academy of sciences,34
+27,1800-1824,membership,astronomical observatory,0
+28,1800-1824,membership,company or gov. agency,2
+29,1800-1824,membership,educational institution,2
+30,1800-1824,membership,institute of technology,0
+31,1800-1824,membership,learned society,56
+32,1800-1824,membership,not classified organisation,177
+33,1800-1824,membership,private university,0
+34,1800-1824,membership,public university,0
+35,1800-1824,membership,research facility,0
+36,1800-1824,membership,research organisation,1
+37,1800-1824,membership,scientific organisation,7
+38,1800-1824,membership,university,26
+65,1825-1849,membership,academy of sciences,37
+66,1825-1849,membership,astronomical observatory,0
+67,1825-1849,membership,company or gov. agency,2
+68,1825-1849,membership,educational institution,5
+69,1825-1849,membership,institute of technology,0
+70,1825-1849,membership,learned society,78
+71,1825-1849,membership,not classified organisation,284
+72,1825-1849,membership,private university,0
+73,1825-1849,membership,public university,0
+74,1825-1849,membership,research facility,0
+75,1825-1849,membership,research organisation,1
+76,1825-1849,membership,scientific organisation,26
+77,1825-1849,membership,university,27
+104,1850-1874,membership,academy of sciences,46
+105,1850-1874,membership,astronomical observatory,0
+106,1850-1874,membership,company or gov. agency,8
+107,1850-1874,membership,educational institution,21
+108,1850-1874,membership,institute of technology,0
+109,1850-1874,membership,learned society,87
+110,1850-1874,membership,not classified organisation,258
+111,1850-1874,membership,private university,0
+112,1850-1874,membership,public university,0
+113,1850-1874,membership,research facility,0
+114,1850-1874,membership,research organisation,1
+115,1850-1874,membership,scientific organisation,17
+116,1850-1874,membership,university,28
+143,1875-1899,membership,academy of sciences,39
+144,1875-1899,membership,astronomical observatory,0
+145,1875-1899,membership,company or gov. agency,8
+146,1875-1899,membership,educational institution,11
+147,1875-1899,membership,institute of technology,0
+148,1875-1899,membership,learned society,95
+149,1875-1899,membership,not classified organisation,420
+150,1875-1899,membership,private university,0
+151,1875-1899,membership,public university,0
+152,1875-1899,membership,research facility,0
+153,1875-1899,membership,research organisation,3
+154,1875-1899,membership,scientific organisation,35
+155,1875-1899,membership,university,24
+182,1900-1924,membership,academy of sciences,47
+183,1900-1924,membership,astronomical observatory,0
+184,1900-1924,membership,company or gov. agency,8
+185,1900-1924,membership,educational institution,3
+186,1900-1924,membership,institute of technology,0
+187,1900-1924,membership,learned society,85
+188,1900-1924,membership,not classified organisation,385
+189,1900-1924,membership,private university,0
+190,1900-1924,membership,public university,1
+191,1900-1924,membership,research facility,0
+192,1900-1924,membership,research organisation,4
+193,1900-1924,membership,scientific organisation,28
+194,1900-1924,membership,university,32
+221,1925-1949,membership,academy of sciences,87
+222,1925-1949,membership,astronomical observatory,0
+223,1925-1949,membership,company or gov. agency,31
+224,1925-1949,membership,educational institution,6
+225,1925-1949,membership,institute of technology,0
+226,1925-1949,membership,learned society,150
+227,1925-1949,membership,not classified organisation,395
+228,1925-1949,membership,private university,0
+229,1925-1949,membership,public university,0
+230,1925-1949,membership,research facility,0
+231,1925-1949,membership,research organisation,21
+232,1925-1949,membership,scientific organisation,35
+233,1925-1949,membership,university,33
+260,1950-1974,membership,academy of sciences,18
+261,1950-1974,membership,astronomical observatory,0
+262,1950-1974,membership,company or gov. agency,17
+263,1950-1974,membership,educational institution,9
+264,1950-1974,membership,institute of technology,0
+265,1950-1974,membership,learned society,53
+266,1950-1974,membership,not classified organisation,233
+267,1950-1974,membership,private university,0
+268,1950-1974,membership,public university,0
+269,1950-1974,membership,research facility,0
+270,1950-1974,membership,research organisation,9
+271,1950-1974,membership,scientific organisation,35
+272,1950-1974,membership,university,23
+299,1975-1999,membership,academy of sciences,0
+300,1975-1999,membership,astronomical observatory,0
+301,1975-1999,membership,company or gov. agency,2
+302,1975-1999,membership,educational institution,0
+303,1975-1999,membership,institute of technology,0
+304,1975-1999,membership,learned society,0
+305,1975-1999,membership,not classified organisation,22
+306,1975-1999,membership,private university,0
+307,1975-1999,membership,public university,0
+308,1975-1999,membership,research facility,1
+309,1975-1999,membership,research organisation,1
+310,1975-1999,membership,scientific organisation,2
+311,1975-1999,membership,university,0
