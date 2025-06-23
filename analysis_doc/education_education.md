@@ -77,7 +77,7 @@ Betweenness                                   label            mainType membersN
 42               University of Göttingen   public university             9
 
 Number of communitites: 7
-Number of nodes per community: [32, 18, 16, 15, 8, 6, 5]
+Number of nodes per community: [32, 18, 17, 14, 8, 6, 5]
 
 
 
@@ -117,7 +117,7 @@ Betweenness                               label            mainType membersNumbe
 67             University of Chicago  private university            10
 
 Number of communitites: 10
-Number of nodes per community: [56, 28, 22, 20, 16, 14, 14, 11, 6, 4]
+Number of nodes per community: [57, 30, 24, 19, 16, 14, 11, 10, 6, 4]
 
 Communities: 
 
@@ -140,21 +140,21 @@ Eigenvector|    | label                           | mainType           |   membe
 | 21 | University of Florida           | public university  |               8 |
 
 Community 1
-Betweenness|     | label                          | mainType   |   membersNumber |
-|----:|:-------------------------------|:-----------|----------------:|
-| 108 | Humboldt-Universität zu Berlin | university |              22 |
-|  28 | University College, Oxford     | university |               8 |
-| 150 | Dalhousie University           | university |               8 |
-|  48 | University of Tokyo            | university |              32 |
-|  46 | University of Paris            | university |              11 |
+Betweenness|     | label                             | mainType           |   membersNumber |
+|----:|:----------------------------------|:-------------------|----------------:|
+|  37 | Georgetown University             | private university |              12 |
+| 171 | George Washington University      | private university |              14 |
+|  38 | University of Oklahoma            | university         |               8 |
+|  88 | University of the Philippines     | university         |               6 |
+| 146 | University of Maryland, Baltimore | public university  |               6 |
 -----
-Eigenvector|     | label                                          | mainType          |   membersNumber |
-|----:|:-----------------------------------------------|:------------------|----------------:|
-| 108 | Humboldt-Universität zu Berlin                 | university        |              22 |
-|  46 | University of Paris                            | university        |              11 |
-| 118 | National and Kapodistrian University of Athens | university        |               8 |
-| 111 | University of Copenhagen                       | university        |               7 |
-| 115 | University of Oslo                             | public university |               8 |
+Eigenvector|     | label                                                         | mainType           |   membersNumber |
+|----:|:--------------------------------------------------------------|:-------------------|----------------:|
+| 171 | George Washington University                                  | private university |              14 |
+|  73 | University of Alabama                                         | public university  |               5 |
+|  76 | University of Chicago School of Social Service Administration | university         |               1 |
+|  36 | Brigham Young University                                      | private university |               3 |
+| 170 | Vanderbilt University                                         | private university |               9 |
 
 Community 2
 Betweenness|     | label                              | mainType           |   membersNumber |
@@ -171,24 +171,24 @@ Eigenvector|     | label                          | mainType           |   membe
 | 159 | Ohio State University          | university         |               7 |
 |  25 | Valparaiso University          | private university |              13 |
 |  24 | Indiana University Bloomington | university         |               2 |
-|  63 | University of Detroit Mercy    | university         |               7 |
+| 160 | Cornell University             | private university |              13 |
 
 Community 3
-Betweenness|     | label                             | mainType           |   membersNumber |
-|----:|:----------------------------------|:-------------------|----------------:|
-|  37 | Georgetown University             | private university |              12 |
-| 171 | George Washington University      | private university |              14 |
-|  38 | University of Oklahoma            | university         |               8 |
-|  88 | University of the Philippines     | university         |               6 |
-| 146 | University of Maryland, Baltimore | public university  |               6 |
+Betweenness|     | label                          | mainType          |   membersNumber |
+|----:|:-------------------------------|:------------------|----------------:|
+| 108 | Humboldt-Universität zu Berlin | university        |              22 |
+|  48 | University of Tokyo            | university        |              32 |
+|  46 | University of Paris            | university        |              11 |
+| 144 | Sciences Po                    | public university |               3 |
+| 111 | University of Copenhagen       | university        |               7 |
 -----
-Eigenvector|     | label                        | mainType           |   membersNumber |
-|----:|:-----------------------------|:-------------------|----------------:|
-| 171 | George Washington University | private university |              14 |
-|  36 | Brigham Young University     | private university |               3 |
-|  38 | University of Oklahoma       | university         |               8 |
-| 184 | Santa Clara University       | university         |               2 |
-|  35 | Cumberland University        | private university |               9 |
+Eigenvector|     | label                                          | mainType   |   membersNumber |
+|----:|:-----------------------------------------------|:-----------|----------------:|
+| 108 | Humboldt-Universität zu Berlin                 | university |              22 |
+|  46 | University of Paris                            | university |              11 |
+| 118 | National and Kapodistrian University of Athens | university |               8 |
+| 111 | University of Copenhagen                       | university |               7 |
+| 112 | Lund University                                | university |               3 |
 
 Community 4
 Betweenness|     | label                               | mainType          |   membersNumber |
@@ -258,20 +258,20 @@ Betweenness                                    label            mainType members
 106                  University of London          university            43
 70                    University of Paris          university            18
 
-Number of communitites: 17
-Number of nodes per community: [154, 73, 53, 50, 47, 44, 40, 36, 31, 23, 16, 7, 6, 6, 5, 5, 5]
+Number of communitites: 15
+Number of nodes per community: [135, 64, 61, 46, 43, 43, 39, 38, 37, 31, 23, 20, 8, 7, 6]
 
 Communities: 
 
 
 Community 0
-Betweenness|     | label                                | mainType           |   membersNumber |
-|----:|:-------------------------------------|:-------------------|----------------:|
-|  93 | University of Virginia School of Law | university         |              94 |
-| 213 | Columbia University                  | private university |              36 |
-|   5 | George Washington University         | private university |              49 |
-|  22 | New York University School of Law    | university         |              52 |
-|  54 | Yale University                      | private university |              30 |
+Betweenness|    | label                                | mainType           |   membersNumber |
+|---:|:-------------------------------------|:-------------------|----------------:|
+| 93 | University of Virginia School of Law | university         |              94 |
+| 22 | New York University School of Law    | university         |              52 |
+| 54 | Yale University                      | private university |              30 |
+|  8 | Stanford Law School                  | university         |              35 |
+| 97 | Princeton University                 | private university |              40 |
 -----
 Eigenvector|     | label                                | mainType           |   membersNumber |
 |----:|:-------------------------------------|:-------------------|----------------:|
@@ -290,64 +290,64 @@ Betweenness|     | label                            | mainType   |   membersNumb
 | 159 | Free University of Brussels      | university |               5 |
 | 393 | King's College London            | university |              15 |
 -----
-Eigenvector|     | label                       | mainType          |   membersNumber |
-|----:|:----------------------------|:------------------|----------------:|
-| 106 | University of London        | university        |              43 |
-| 352 | Leiden University           | university        |              34 |
-|  48 | University College London   | university        |              22 |
-| 477 | University of Dar es Salaam | public university |               8 |
-| 357 | Trinity College             | university        |              16 |
+Eigenvector|     | label                         | mainType          |   membersNumber |
+|----:|:------------------------------|:------------------|----------------:|
+| 106 | University of London          | university        |              43 |
+|  48 | University College London     | university        |              22 |
+| 357 | Trinity College               | university        |              16 |
+| 198 | University of the Punjab      | public university |              14 |
+| 400 | University of the West Indies | public university |              10 |
 
 Community 2
-Betweenness|     | label                       | mainType           |   membersNumber |
-|----:|:----------------------------|:-------------------|----------------:|
-|  20 | Harvard University          | private university |              69 |
-|  70 | University of Paris         | university         |              18 |
-| 155 | Cornell University          | private university |              22 |
-| 245 | Georgetown University       | private university |              27 |
-| 247 | Manuel L. Quezon University | university         |               5 |
+Betweenness|     | label                     | mainType           |   membersNumber |
+|----:|:--------------------------|:-------------------|----------------:|
+| 213 | Columbia University       | private university |              36 |
+|  20 | Harvard University        | private university |              69 |
+| 155 | Cornell University        | private university |              22 |
+| 245 | Georgetown University     | private university |              27 |
+| 241 | University of Puerto Rico | public university  |              16 |
 -----
 Eigenvector|     | label                     | mainType           |   membersNumber |
 |----:|:--------------------------|:-------------------|----------------:|
+| 213 | Columbia University       | private university |              36 |
 | 155 | Cornell University        | private university |              22 |
-|  20 | Harvard University        | private university |              69 |
-| 245 | Georgetown University     | private university |              27 |
-| 223 | Michigan State University | university         |              12 |
-|  70 | University of Paris       | university         |              18 |
+| 241 | University of Puerto Rico | public university  |              16 |
+| 239 | University of Notre Dame  | private university |              25 |
+|  27 | University of Utah        | university         |              21 |
 
 Community 3
-Betweenness|     | label                                  | mainType           |   membersNumber |
-|----:|:---------------------------------------|:-------------------|----------------:|
-|   1 | Boston University School of Law        | private university |              15 |
-| 137 | University of Colorado Law School      | university         |               8 |
-| 166 | University of Denver                   | private university |              10 |
-| 254 | University of Washington School of Law | university         |              14 |
-| 282 | University of Pennsylvania             | private university |              19 |
+Betweenness|     | label                                  | mainType          |   membersNumber |
+|----:|:---------------------------------------|:------------------|----------------:|
+|  70 | University of Paris                    | university        |              18 |
+| 318 | Ludwig-Maximilians-Universität München | public university |              39 |
+| 455 | Panthéon-Assas University Paris        | university        |               7 |
+| 284 | University of Wisconsin–Madison        | university        |              16 |
+| 324 | University of Bonn                     | public university |              21 |
 -----
-Eigenvector|     | label                             | mainType   |   membersNumber |
-|----:|:----------------------------------|:-----------|----------------:|
-|  30 | College of the Holy Cross         | university |              11 |
-| 297 | Boston University                 | university |              15 |
-| 137 | University of Colorado Law School | university |               8 |
-| 490 | Wesleyan University               | university |              13 |
-| 462 | Roosevelt University              | university |               2 |
+Eigenvector|     | label                           | mainType          |   membersNumber |
+|----:|:--------------------------------|:------------------|----------------:|
+| 284 | University of Wisconsin–Madison | university        |              16 |
+|  70 | University of Paris             | university        |              18 |
+| 352 | Leiden University               | university        |              34 |
+| 203 | Middlebury College              | university        |               3 |
+| 202 | Eastern Michigan University     | public university |               2 |
 
 Community 4
-Betweenness|     | label                                | mainType          |   membersNumber |
-|----:|:-------------------------------------|:------------------|----------------:|
-|  25 | University of Oxford                 | public university |              20 |
-| 298 | Rutgers University                   | university        |              21 |
-|  43 | University of Ottawa                 | public university |               9 |
-| 104 | University of Toronto Faculty of Law | university        |              10 |
-| 257 | Magdalen College                     | university        |              14 |
+Betweenness|     | label                                      | mainType          |   membersNumber |
+|----:|:-------------------------------------------|:------------------|----------------:|
+|  25 | University of Oxford                       | public university |              20 |
+|  43 | University of Ottawa                       | public university |               9 |
+| 104 | University of Toronto Faculty of Law       | university        |              10 |
+| 257 | Magdalen College                           | university        |              14 |
+|  72 | University of New Brunswick Faculty of Law | university        |               4 |
 -----
 Eigenvector|     | label                                      | mainType          |   membersNumber |
 |----:|:-------------------------------------------|:------------------|----------------:|
 |  25 | University of Oxford                       | public university |              20 |
-| 298 | Rutgers University                         | university        |              21 |
 | 257 | Magdalen College                           | university        |              14 |
 |  72 | University of New Brunswick Faculty of Law | university        |               4 |
 |  68 | University of New Brunswick                | university        |               6 |
+|  71 | St John's College                          | university        |               2 |
 
 
 
